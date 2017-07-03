@@ -4,6 +4,8 @@
 
 For consuming the event, an easy approach is to implement Jsforce library on a nodeJS app locally or on heroku.
 
+[Node Repo](https://github.com/lucianostraga/node-sf-platform-events)
+
 Index.js Example
 
 ```JavaScript
